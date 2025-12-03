@@ -1,7 +1,7 @@
 const portfolioConfig = {
     name: "Buddhi Vichakkshan Nanayakkara",
     titles: ["Full Stack Developer", "UI/UX Enthusiast", "Open Source Contributor"],
-    profileImage: "/profile.png",
+    profileImage: "profile.png",
     socialLinks: {
         github: "https://github.com/buddhiab",
         linkedin: "https://www.linkedin.com/in/vichakkshana-buddhi-757671352/",
